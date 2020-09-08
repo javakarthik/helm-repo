@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mydemo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-09-08T09:47:45.473615072Z"
+    description: A Helm chart for Kubernetes
+    digest: f79a6efe3ec797c94f4772e143b9db0dec6225fd3d2c05bbad078f327b7868d5
+    name: mydemo
+    type: application
+    urls:
+    - https://javakarthik.github.io/helm-repo/mydemo-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-08T09:47:45.466774543Z"
